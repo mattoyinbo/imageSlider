@@ -34,7 +34,7 @@ body {
 .btn-left:hover {
   border-color: var(--mainBlue);
   background: var(--mainWhite);
-  color: var(--mainBlue) !important;
+  color: greenyellow !important;
 }
 .btn-right {
   position: absolute;
@@ -49,5 +49,5 @@ body {
 .btn-right:hover {
   border-color: var(--mainBlue);
   background: var(--mainWhite);
-  color: var(--mainBlue) !important;
+  color: greenyellow !important;
 }
